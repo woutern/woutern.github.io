@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
  
-### About me 
+{#### About me 
 
 I live in Amsterdam together with my wife and 2 boys. I co-founded inSided in 2011 and have been involved in all technical aspects of our beautifull SaaS platform. Just recently I have made a pivot of moving more towards the external market instead of all the internal stuff that is going on. Still trying to get used to that but it is surely something that gives a lot of energy!
 
@@ -41,7 +41,7 @@ What do we do?
 2.     We provide a platform that allows organisations to reward their end-users for helping out.
 3.     We provide a platform that allows for creativity by extension of the platform.
 4.     We provide extensive support on the growth and viability of a community.
-5.     We connect our customers and let them share and help each other.
+5.     We connect our customers and let them share and help each other. #}
 
 
 
